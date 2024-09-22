@@ -1,7 +1,8 @@
-package com.ismailmesutmujde.kotlinstoragesqlitereadydatabaseusage
+package com.ismailmesutmujde.kotlinstoragesqlitereadydatabaseusage.view
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
+import com.ismailmesutmujde.kotlinstoragesqlitereadydatabaseusage.R
 
 
 class MainActivity : AppCompatActivity() {
